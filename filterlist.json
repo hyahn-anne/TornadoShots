@@ -1,0 +1,22 @@
+{
+    "filters": [
+        {
+            "name": "sunny",
+            "brightness": 2,
+            "contrast": 1.2,
+            "temperature": 7000
+        },
+        {
+            "name": "rainy",
+            "brightness": -1,
+            "contrast": 0.6,
+            "temperature": 7500
+        },
+        {
+            "name": "cloudy",
+            "brightness": -2,
+            "contrast": 0.4,
+            "temperature": 7800
+        }
+    ]
+}
